@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">lab1-GUI</string>
+    <string name="imie">Imie</string>
+    <string name="nazwisko">Nazwisko</string>
+    <string name="liczba_ocen">Liczba ocen</string>
+    <string name="InsertSurname">Wpisz nazwisko</string>
+    <string name="InsertName">Wpisz nazwisko</string>
+
+    <string name="InsertNotes">[5-15]</string>
+    <string name="oceny">Oceny</string>
+    <string name="Avgbutton">Oblicz srednia</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+
+    <string name="przedmiot">prze</string>
+    <string-array name="tablica">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+    </string-array>
+</resources>
